@@ -6,7 +6,7 @@ I love building games and exploring computer science concepts deeply.
 ---
 
 ## 👨‍💻 About Me
-- 🎓 BSc in Computer Engineering from Shahid Rajaee University in Tehran(also trained as a Computer Science Educator)  
+- 🎓 BSc in Computer Engineering from Shahid Rajaee University in Tehran (also trained as a Computer Science Teacher)  
 - 🎮 Unity game developer (2D, 3D, VR)  
 - 💻 Programming experience: C++ & C# (advanced), Python (basic projects, e.g., Telegram bots)
 - 💡 Interested in continuous learning, problem-solving, and building useful tools  
