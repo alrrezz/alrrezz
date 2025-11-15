@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Alireza (alrrezz)
 
 I'm a **Computer Engineer, Unity Game Developer**.  
-I love building games, bots, and exploring computer science concepts deeply.  
+I love building games and exploring computer science concepts deeply.  
 
 ---
 
