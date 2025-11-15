@@ -48,13 +48,6 @@ I love building games, bots, and exploring computer science concepts deeply.
 
 ---
 
-## 💼 Featured Projects
-- **VR Memory Assessment Game** – Bachelor thesis VR game  
-- **Unity 2D/3D Games** – Prototypes & mini-games  
-- **Telegram Anonymous Forward Bot** – Python + Aiogram  
-
----
-
 ## 💬 Ask Me About
 Unity, Python, Telegram bots, VR, Computer Engineering topics
 
