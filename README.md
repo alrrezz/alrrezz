@@ -12,7 +12,6 @@ I love building games and exploring computer science concepts deeply.
 - 💡 Interested in continuous learning, problem-solving, and building useful tools  
 - ✏️ Photoshop for 2D asset design  
 - ⚡ Familiar with Python, VHDL/Verilog, Arduino, Linux basics  
-- 🌍 English: C1 (CEFR)
 
 ---
 
