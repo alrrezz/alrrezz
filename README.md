@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Alireza (alrrezz)
+# Hi there 👋 I'm Alireza Pahlevanzadeh
 
 I'm a **Computer Engineer, Unity Game Developer**.  
 I love building games and exploring computer science concepts deeply.  
@@ -7,16 +7,15 @@ I love building games and exploring computer science concepts deeply.
 
 ## 👨‍💻 About Me
 - 🎓 BSc in Computer Engineering from Shahid Rajaee University in Tehran (also trained as a Computer Science Teacher)  
-- 🎮 Unity game developer (2D, 3D, VR)  
+- 🎮 Unity game developer (2D, 3D, VR, OOP)  
 - 💻 Programming experience: C++ & C# (advanced), Python (basic projects, e.g., Telegram bots)
 - 💡 Interested in continuous learning, problem-solving, and building useful tools  
-- ✏️ Photoshop for 2D asset design  
-- ⚡ Familiar with Python, VHDL/Verilog, Arduino, Linux basics  
+- ⚡ Familiar with Python, Photoshop for 2D asset design, VHDL/Verilog, Arduino, Linux basics 
 
 ---
 
 ## 🔭 Currently Working On
-- VR Memory Assessment Game (Bachelor project)  
+- VR Games  
 - Updating previous Unity games and prototypes  
 - Telegram Bots (Python + Aiogram)  
 
@@ -24,12 +23,11 @@ I love building games and exploring computer science concepts deeply.
 
 ## 🌱 Currently Learning
 - Computer Networks
-- Data Structures & Algorithms  
-- Databases & Data Mining  
-- AI fundamentals  
-- Git & GitHub workflow  
-- Linux & Shell scripting  
-- Hardware troubleshooting basics  
+- Backends
+- System Design Basics
+- Databases(SQL)  
+- AI/ML
+- Hardware basics  
 
 ---
 
@@ -48,7 +46,7 @@ I love building games and exploring computer science concepts deeply.
 ---
 
 ## 💬 Ask Me About
-Unity, Python, Telegram bots, VR, Computer Engineering topics
+Unity, VR, C++, C#, Phyton, Telegram bots, Computer Engineering topics
 
 ---
 
