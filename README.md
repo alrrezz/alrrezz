@@ -39,11 +39,6 @@ I love building games and exploring computer science concepts deeply.
 </p>
 
 ---
-## 🔥 GitHub Stats
-
-<p align="center"> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" /> <img src="https://komarev.com/ghpvc/?username=alrrezz&label=Profile%20Views&color=blue&style=for-the-badge" /> <img src="https://img.shields.io/badge/Focus-Unity%20%7C%20VR%20%7C%20C%23-purple?style=for-the-badge" /> <img src="https://img.shields.io/badge/Working%20On-VR%20Memory%20Game-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Mood-Coding%20All%20Day-blueviolet?style=for-the-badge" /> </p>
-
----
 ## 💬 Ask Me About
 Unity, VR Development, C++, C#, Python, Telegram Bots, Computer Engineering, Game Design
 
@@ -53,5 +48,3 @@ Unity, VR Development, C++, C#, Python, Telegram Bots, Computer Engineering, Gam
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alrrez_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alrez.1381@gmail.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alireza.pahlevanzadeh81@gmail.com)
-
-**Ready to collaborate on VR, Unity, or cool indie game projects!** 🚀
