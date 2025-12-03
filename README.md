@@ -41,18 +41,7 @@ I love building games and exploring computer science concepts deeply.
 ---
 ## 🔥 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alrrezz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Alireza's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alrrezz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alrrezz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alrrezz&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
-</div>
+<p align="center"> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" /> <img src="https://komarev.com/ghpvc/?username=alrrezz&label=Profile%20Views&color=blue&style=for-the-badge" /> <img src="https://img.shields.io/badge/Focus-Unity%20%7C%20VR%20%7C%20C%23-purple?style=for-the-badge" /> <img src="https://img.shields.io/badge/Working%20On-VR%20Memory%20Game-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Mood-Coding%20All%20Day-blueviolet?style=for-the-badge" /> </p>
 
 ---
 ## 💬 Ask Me About
