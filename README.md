@@ -1,15 +1,15 @@
-# Hi there 👋 I'm Alireza Pahlevanzadeh
+# I'm Alireza Pahlevanzadeh
 
 I'm a **Computer Engineer, Unity Game Developer**.  
 I love building games and exploring computer science concepts deeply.
 
 ---
 ## 👨‍💻 About Me
-- 🎓 BSc in Computer Engineering from Shahid Rajaee University in Tehran (also trained as a Computer Science Teacher)
-- 🎮 Unity game developer (2D, 3D, VR, OOP)
-- 💻 Programming experience: C++ & C# (advanced), Python (basic projects, e.g., Telegram bots)
-- 💡 Interested in continuous learning, problem-solving, and building useful tools
-- ⚡ Familiar with Python, Photoshop for 2D asset design, VHDL/Verilog, Arduino, Linux basics
+- BSc in Computer Engineering from Shahid Rajaee University in Tehran (also trained as a Computer Science Teacher)
+- Unity game developer (2D, 3D, VR, OOP)
+- Programming experience: C++ & C# (advanced), Python (basic projects, e.g., Telegram bots)
+- Interested in continuous learning, problem-solving, and building useful tools
+- Familiar with Python, Photoshop for 2D asset design, VHDL/Verilog, Arduino, Linux basics
 
 ---
 ## 🔭 Currently Working On
